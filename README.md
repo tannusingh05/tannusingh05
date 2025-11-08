@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🌸 Hey there — I’m Tannu Singh!
 
-<!--
-**tannusingh05/tannusingh05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of **GitHub** 👩‍💻  
+I’m a **BCA graduate** and an **aspiring Data Analyst** who loves turning messy data into clear insights, useful dashboards, and actionable stories.
 
-Here are some ideas to get you started:
+I’m currently learning and building with:
+**SQL • Power BI • Python • Excel**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What you’ll find here
+- 🔍 Data analysis projects and dashboards (Power BI, Excel)  
+- 🐍 Python notebooks for data cleaning and analysis  
+- 🧾 SQL queries for extraction and aggregation  
+- 🎯 Projects that show my learning process and real-world application
+
+### Featured projects
+- **Dominos Pizza Sales Analysis** — Python + Power BI dashboard  
+- **Beauty Brand Analysis** — SQL + Power BI project with dashboard snapshot  
+- **Netflix Streaming Dashboard** — Power BI analysis of streaming trends  
+- **Coffee Sales Dashboard** — Excel dashboard and insights
+
+
+---
+
+## 💻 Tech & tools
+`SQL` • `Python` • `Power BI` • `Excel` • `Pandas` • `NumPy` • `Matplotlib` • `Plotly`
+
+✨ _“Every dataset hides a story — I help bring it to light.”_
+
+
